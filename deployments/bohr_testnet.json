@@ -1,0 +1,26 @@
+{
+  "network": "bohr_testnet",
+  "chainId": "968",
+  "deployer": "0xdBbf66CAD621dA3Ec186D18b29a135d2A5d42d20",
+  "timestamp": "2026-07-08T17:02:48.580Z",
+  "contracts": {
+    "AetherOracle": {
+      "address": "0x708193f93Fb897fbeA72e7e7D19237770F19E969",
+      "deploymentBlock": 15598316
+    },
+    "AetherBDC": {
+      "address": "0x6EAB7862385329BdaaD32f2b9587a66E768018Ba",
+      "deploymentBlock": 15598316
+    },
+    "AetherSettlement": {
+      "address": "0x0962f369536e9AA292109840d45C0E23ee6fB382",
+      "deploymentBlock": 15598316
+    }
+  },
+  "testEntities": {
+    "alice": "0x08c2b155a07adb4f614ce93f2eb55f9bb4c3986f40965fa20f346293f120d92c",
+    "bob": "0xca9c00acca72256e66a5ba4084af3dcd815305e0656a31336351623c1b30e835",
+    "charlie": "0x740e456cd0f2858aa42f11242987b96ebafb4cc7c46177e0027d974d9ea1f21f",
+    "diana": "0x41a92673da14444efaf8e65d9b1c2a2cd1f68560e13d1b6a96580b6c49d04d6a"
+  }
+}
